@@ -1,6 +1,6 @@
 # Digital-Clock
 
-This is a digital clock made using Tjinter library.
+This is a digital clock made using Tkinter library.
 
 It will give you current time and date of current day.
 
